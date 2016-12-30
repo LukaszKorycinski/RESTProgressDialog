@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebServiceApp</string>
+    <string name="defaul_message">Defaul message</string>
+</resources>
